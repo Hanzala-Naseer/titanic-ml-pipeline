@@ -38,7 +38,7 @@ Edit
 
 ### 📋 Classification Report
 
-![Classification Report](visualizations/classification_report.png)
+![Classification Report](visualizations/classification_report_metrics.png)
 
 ### 👩‍🚢 Survival by Gender
 
